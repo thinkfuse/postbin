@@ -1,4 +1,4 @@
-application: postbin1
+application: thinkfuse-postbin
 version: 1
 runtime: python
 api_version: 1
